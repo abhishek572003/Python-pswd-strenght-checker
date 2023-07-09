@@ -29,3 +29,4 @@ if __name__ == '__main__':
         check_password_strength(password)
     else:
         print('Exiting...')
+        input()
